@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Waylon",
+      "last_name": "Bradmore",
+      "email": "wbradmore0@nifty.com",
+      "gender": "Male",
+      "ip_address": "56.37.169.28",
+      "departament": "Human Resources",
+      "job": "Account Coordinator"
+    },
+    {
+      "id": 2,
+      "first_name": "Peyton",
+      "last_name": "Roubottom",
+      "email": "proubottom1@about.me",
+      "gender": "Male",
+      "ip_address": "222.41.192.96",
+      "departament": "Legal",
+      "job": "Help Desk Operator"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
